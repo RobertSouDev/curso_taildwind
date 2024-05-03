@@ -10,8 +10,8 @@ Para começar, você precisa instalar o Tailwind CSS. Para isso, é necessário 
 Exemplo no terminal:
 
     aula01> npm install tailwindcss
-added 112 packages in 8s
-29 packages are looking for funding
+    added 112 packages in 8s
+    29 packages are looking for funding
 
 # Observação:
 Não é recomendado criar seus arquivos HTML, CSS e JS na raiz do projeto. Por isso, você deve criar uma pasta chamada src.
@@ -26,11 +26,10 @@ Execute o comando npx tailwindcss init no terminal do projeto para inicializar o
 # Próximo passo:
 Você precisará instalar e configurar o Live Server. Após a instalação, vá para as configurações. Para configurar, clique em "configuração" e, em seguida, em "Extension Settings".
 
-![liver serve](/src/assets/print.png)
-
+<img src="/src/assets/print.png" alt="Live Server" width="100" height="100"/>
 Em seguida, escreva "full" na barra de busca para encontrar a opção desejada e marque-a.
 
-![liver serve](//src/assets/print2.png)
+<img src="/src/assets/print2.png" alt="Live Server" width="100" height="100"/>
 
 Isso é feito para habilitar o auto reload do CSS.
     
