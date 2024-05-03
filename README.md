@@ -26,18 +26,17 @@ Execute o comando npx tailwindcss init no terminal do projeto para inicializar o
 # Próximo passo:
 Você precisará instalar e configurar o Live Server. Após a instalação, vá para as configurações. Para configurar, clique em "configuração" e, em seguida, em "Extension Settings".
 
-<img src="/src/assets/print.png" alt="Live Server" width="100" height="100"/>
+<img src="/src/assets/print.png" alt="Live Server" width="400" height="400"/>
 Em seguida, escreva "full" na barra de busca para encontrar a opção desejada e marque-a.
 
-<img src="/src/assets/print2.png" alt="Live Server" width="100" height="100"/>
+<img src="/src/assets/print2.png" alt="Live Server" width="400" height="400"/>
 
 Isso é feito para habilitar o auto reload do CSS.
     
 # Último passo:
 Agora só falta baixar a extensão do Tailwind CSS.
 
-![extensao do tailwindcss](/src/assets/print3.png)
-
+<img src="/src/assets/print3.png" alt="Live Server" width="400" height="400"/>
 
 
 
