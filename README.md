@@ -61,7 +61,7 @@ vai aparece esse problema:
 
 <img src="/src/img/print6.png" alt="Live Server" width="400" height="400"/>
 
-isso nao um problema do nosso sistema e sim da IDE
+isso nao é bem um problema do nosso sistema e sim da IDE
 para resolve isso devemos ir nas config do visual stude code ir nos settings e procura por  Unknown At Rules e marca a opcao ignora 
 
 <img src="/src/img/print7.png" alt="Live Server" width="400" height="400"/>
