@@ -1,1 +1,3 @@
 npx tailwindcss -i ./src/input.css -o ./build/assets/css/app.css --watch
+
+npx tailwindcss -i ./src/input.css -o ./build/assets/css/app.css --watch
