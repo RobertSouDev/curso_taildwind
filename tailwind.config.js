@@ -4,7 +4,12 @@ module.exports = {
     './build/*.html'
   ],
   theme: {
-    extend: {},
+    extend: {
+      fontSize: {
+        'normal':'14px',
+        'titulo':'32px'
+      }
+    },
   },
   plugins: [],
 }
