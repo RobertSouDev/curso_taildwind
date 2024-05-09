@@ -9,7 +9,7 @@ Para começar, você precisa instalar o Tailwind CSS. Para isso, é necessário 
 
 Exemplo no terminal:
 
-    aula01> npm install tailwindcss
+    npm install tailwindcss
     added 112 packages in 8s
     29 packages are looking for funding
 
